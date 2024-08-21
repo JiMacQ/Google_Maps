@@ -6,7 +6,9 @@
 ### ROMO LOPEZ BRYAN ANDRES
 ### ORMAZA MONTESDEOCA YUMEIDA STEFANIE
 
-<img src="gmaps1.png">
-<img src="gmaps2.png">
-<img src="gmaps3.png">
+<p align="center">
+ <img src="gmaps1.png"width="30%">
+<img src="gmaps2.png"width="30%">
+<img src="gmaps3.png" width="30%">
+</p>
 <img src="gmaps_as.PNG">
